@@ -5,5 +5,6 @@ public class Main {
 		System.out.println("Hello GitHub!");
 		System.out.println("つながったよ。");
 		System.out.println("workspaceHomeからHello");
+		System.out.println("workspaceGitからHelloBack");
 	}
 }
